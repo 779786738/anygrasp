@@ -1,0 +1,4 @@
+# ninja log v5
+0	322	1639290050247327065	/home/ubuntu/Projects/graspnet/graspnet-baseline/knn/build/temp.linux-x86_64-3.8/home/ubuntu/Projects/graspnet/graspnet-baseline/knn/src/cuda/knn.o	4f523d5d6dcf0de
+0	6897	1639290056823352007	/home/ubuntu/Projects/graspnet/graspnet-baseline/knn/build/temp.linux-x86_64-3.8/home/ubuntu/Projects/graspnet/graspnet-baseline/knn/src/cpu/knn_cpu.o	f723f0ee9d6165fa
+0	10202	1639290060127364286	/home/ubuntu/Projects/graspnet/graspnet-baseline/knn/build/temp.linux-x86_64-3.8/home/ubuntu/Projects/graspnet/graspnet-baseline/knn/src/vision.o	f2530feac80cb8c

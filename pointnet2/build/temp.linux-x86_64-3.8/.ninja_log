@@ -1,0 +1,13 @@
+# ninja log v5
+0	10045	1639289933310761515	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/bindings.o	d8f198944a0d04e4
+2	7080	1639290030983250063	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/cylinder_query_gpu.o	ae95391d686baa1e
+2	7154	1639290031055250362	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/group_points_gpu.o	77fcb9cd38326ead
+2	7237	1639290031139250710	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/ball_query_gpu.o	f84377f74e546f90
+2	7239	1639290031143250727	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/interpolate_gpu.o	66ed7878f86d648e
+2	7372	1639290031275251274	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/sampling_gpu.o	fb6dc211e4285535
+1	10690	1639290034591264938	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/group_points.o	cf32b5a5f1557bdf
+1	10954	1639290034855266019	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/sampling.o	61c8edf0ff4ff213
+1	10969	1639290034871266084	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/cylinder_query.o	a013638cf479bb7f
+1	11015	1639290034915266264	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/ball_query.o	dc7e24a8abf39de3
+1	11060	1639290034963266461	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/interpolate.o	d97691bf6d14533b
+1	12288	1639290036187271451	/home/ubuntu/Projects/graspnet/graspnet-baseline/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/bindings.o	54571775174b894d
